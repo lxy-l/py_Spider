@@ -8,18 +8,16 @@ import time
 import json
 import re
 
-baseURL = 'https://search.bidcenter.com.cn/search?keywords=BIM&page='
+baseURL = ''
 headers = {
 	"authority":"search.bidcenter.com.cn",
 	"method": "GET",
-	"path": "/search?keywords=BIM&page=3",
+	"path": "",
 	"scheme": "https",
 	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
 	"accept-encoding": "gzip,deflate,br",
 	"accept-language": "zh-CN,zh;q=0.9",
-	"cache-control": "max-age=0",
-	"cookie": "bidguidnew=2746c834-c786-4e3f-abe2-20970c9a1f7e; bidguid=c67554c9-ffee-4a0a-a963-1049001ffa78; keywords==BIM; UM_distinctid=16f82aaced89f4-079d047d0a71cd-6a547d2e-1fa400-16f82aaced9bf1; CNZZDATA888048=cnzz_eid%3D1334948636-1578444044-%26ntime%3D1578444044; Hm_lvt_9954aa2d605277c3e24cb76809e2f856=1578445230; Hm_lpvt_9954aa2d605277c3e24cb76809e2f856=1578446537",
-	"referer": "https://search.bidcenter.com.cn/search?keywords=BIM",
+	"referer": "",
 	"sec-fetch-mode":"navigate",
 	"sec-fetch-site":"same-origin",
 	"sec-fetch-user":"?1",
