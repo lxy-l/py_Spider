@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py_Spider", "py_Spider.pyproj", "{534ECE8F-BFD2-48C9-B3C5-03575504F8BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{534ECE8F-BFD2-48C9-B3C5-03575504F8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534ECE8F-BFD2-48C9-B3C5-03575504F8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2266F13-F1FF-4108-9884-BC9467CE15DB}
+	EndGlobalSection
+EndGlobal
