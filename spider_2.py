@@ -10,10 +10,10 @@ import csv
 import MysqlDB
 
 dbConfig = {
-    'host': '106.14.46.99',
+    'host': 'localhost',
     'user': 'root',
-    'password': 'EaBIM_Mysql_@rootpwd_369',
-    'port': 3303,
+    'password': '962921921',
+    'port': 3306,
     'database': 'py_database',
     'charset': 'utf8mb4'
 }
